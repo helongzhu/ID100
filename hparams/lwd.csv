@@ -1,0 +1,9 @@
+x_eps,dataset,learning_rate,weight_decay,dropout
+1,cora,0.01,0.01,0.75
+1,facebook,0.01,0.01,0.75
+1,lastfm,0.01,0.01,0.75
+inf,cora,0.01,0.01,0.5
+inf,facebook,0.001,0.0001,0.75
+inf,lastfm,0.001,0.01,0.25
+1,citeseer,0.01,0.1,0.75
+inf,citeseer,0.01,0.01,0.75
